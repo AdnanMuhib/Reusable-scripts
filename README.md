@@ -11,5 +11,6 @@ Repo Structure:
     - Example config file for ansible
 - [python3/one-offs/cciper.py)](./python3/one-offs/cciper.py)
     - Implement Caesar Cipher
+- [python3/aws_scripts/run_ec2_actions.py)](./python3/aws_scripts/run_ec2_actions.py)
+    - Run actions against an ec2 instance
 - 
- 
