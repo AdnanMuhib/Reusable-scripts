@@ -13,4 +13,5 @@ Repo Structure:
     - Implement Caesar Cipher
 - [python3/aws_scripts/run_ec2_actions.py)](./python3/aws_scripts/run_ec2_actions.py)
     - Run actions against an ec2 instance
-- 
+- [javascript/array-helpers.js]
+    - Scipst checks whether all elements of the array are equal.
